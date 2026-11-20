@@ -1,0 +1,13 @@
+{
+  "title": "Minecraft: Bedrock Edition 26.60 Changelog",
+  "version": "26.60",
+  "patchNoteType": "retail",
+  "date": "2026-10-27",
+  "image": {
+    "title": "26.60.jpg",
+    "url": "/v2/images/26.60.jpg"
+  },
+  "body": "<p>Minecraft: Bedrock Edition 26.60 Changelog<p>Brrrr! Did the temperature just drop? Something drop related is going on, namely the addition of some experimental features from the upcoming game drop! Dive into the ice caves to check out the new icicles, ice crystals, and frostbites - if you dare! I don't know if I will, the thought of those frozen foes makes my stomach drop. Don't worry, haven't dropped the ball on our other areas of responsibility! This update also improves the gameplay experience with more than 600+ bug fixes, 89 of which were found thanks to you, the community, dropping us a line about them! Was that intro too drop-focused? No? Yes? Fine, I'll drop it.<p>And as always, we're keen to get your feedback on these new features at <a href=https://feedback.minecraft.net/ rel=\"noopener noreferrer\"target=_blank>feedback.minecraft.net</a>, and you can report any bugs you find at <a href=https://bugs.mojang.com/ rel=\"noopener noreferrer\"target=_blank>bugs.mojang.com</a>.<h1>Experimental Game Drops Features</h1><h2>Drop 4 of 2026</h2><h3>Biomes</h3><ul><li>The Ice Cave is a new cave biome that generates under the colder biomes in the Overworld. It consists mainly of Packed Ice and Calcite<ul><li>Features terrain composed primarily of Packed Ice and Calcite<li>Icicles generate hanging from the ceiling<li>Large icicles made of Packed Ice generate on the ground and hanging from the ceiling<li>Patches of Snow occasionally generates on the ground<li>Ores generate embedded in pockets of Stone and Deepslate<li>Dirt and Granite do not generate in this biome<li>Glow Lichen does not generate in this biome<li>In addition to the mobs that normally spawn in caves, Strays and Frostbites can also spawn here<li>Ice Crystals occasionally generate on the ground<li>Ice Caves appe",
+  "id": "ad31b012564ea6ec829f42bdf8cf07871513db8168d55ae15639f6a9ac409c91",
+  "needsTranslation": false
+}

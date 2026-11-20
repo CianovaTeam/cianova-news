@@ -1,0 +1,47 @@
+name: Sync launcher releases
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: cianova-news-releases
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Import published releases
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/sync_releases.py --limit 5
+
+      - name: Rebuild index
+        run: python scripts/build_index.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- news news.json; then
+            echo "Sin releases nuevas."
+            exit 0
+          fi
+          git config user.name "cianova-news-bot"
+          git config user.email "bot@cianovalauncher.org"
+          git add news news.json
+          git commit -m "chore(news): importar release de CianovaLauncher"
+          git push
