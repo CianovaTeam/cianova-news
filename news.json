@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-20T08:13:10Z",
-  "count": 9,
+  "generated_at": "2026-11-21T13:59:57Z",
+  "count": 19,
   "items": [
     {
       "id": "cianova-v4.0.0",
@@ -171,6 +171,196 @@
       "image": "https://launchercontent.mojang.com/v2/images/1.21.130.png",
       "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.130",
       "version": "1.21.130",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.120",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.120",
+        "en": "1.21.120 Update"
+      },
+      "summary": {
+        "es": "1.21.120 es una actualización menor para Bedrock Edition lanzada el 28 de octubre de 2025, la cual rediseña el menú de pausa y corrige errores.",
+        "en": "While you've been having mayhem with mounts, we've been squashing bugs and implementing important fixes! Alongside adding animated lantern textures, the copper golem statues will now glow when placed in a glow item frame, and interacting with the copper golem will make it drop whatever its carrying."
+      },
+      "doc": "news/bedrock-1.21.120.md",
+      "published": "2025-10-28",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.120.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.120",
+      "version": "1.21.120",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.111",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.111",
+        "en": "1.21.111 - The Copper Age"
+      },
+      "summary": {
+        "es": "1.21.111, el lanzamiento de La Era del Cobre, es un game drop para Bedrock Edition lanzado el 30 de septiembre de 2025. Añade armadura y herramientas de cobre, varios bloques decorativos de cobre, gólems de cobre y estanterías.",
+        "en": "Minecraft has entered The Copper Age! Express yourself in every shade of copper as you transform this versatile metal into handy tools, shiny armor, gleaming light sources, oxidizing decor, smart storage, and even lively mechanical companions known as copper golems."
+      },
+      "doc": "news/bedrock-1.21.111.md",
+      "published": "2025-09-30",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.111.jpg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.111",
+      "version": "1.21.111",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.100",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.100",
+        "en": "1.21.100 Update"
+      },
+      "summary": {
+        "es": "1.21.100 es una actualización menor de Bedrock Edition lanzada el 5 de agosto de 2025, la cuál añade \"el vacio\" a las bases para mundo extraplano, funciones experimentales para La Era del Cobre y corrige errores.",
+        "en": "Clonk! Clonk! Clonk! If you thought that's the sound of a copper golem trying jazzercise, think again. It's actually us digging deeper into experimental features only to discover that the Overworld is flat."
+      },
+      "doc": "news/bedrock-1.21.100.md",
+      "published": "2025-08-05",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.100540.jpg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.100",
+      "version": "1.21.100",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.90",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.90",
+        "en": "1.21.90 - Chase the Skies"
+      },
+      "summary": {
+        "es": "1.21.90, el lanzamiento de Persigue los Cielos, es una actualizacón drop para Bedrock Edition que fue lanzado el 17 de junio de 2025, que añade los ghasts felices, Visuales Vibrantes, mejoras en las mecánicas de las riendas y corrige errores.",
+        "en": "Experience the joy of soaring above the Overworld with our Chase the Skies drop! This drop not only brings an exciting flying mount to Minecraft but opens up the skies for exploring, building and more. Raise your ghastling with care and it'll let you soar with friends above the clouds once fully grown."
+      },
+      "doc": "news/bedrock-1.21.90.md",
+      "published": "2025-06-17",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.90.jpg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.90",
+      "version": "1.21.90",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.80",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.80",
+        "en": "1.21.80 Update"
+      },
+      "summary": {
+        "es": "1.21.80 es una pequeña actualización para Bedrock Edition la cual se lanzó el 8 de mayo de 2025, antes de la actualización Persigue los Cielos.",
+        "en": "Have you ever looked out across the Overworld and just wished it was... flatter? Well, good news! Flat world presets are now available in Bedrock Edition! Whether you prefer to build on a clean slate or have an aversion to pointy landscapes, now you can have your pick of several exciting in game presets, from Classic…"
+      },
+      "doc": "news/bedrock-1.21.80.md",
+      "published": "2025-05-06",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.80.jpg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.80",
+      "version": "1.21.80",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.70",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.70",
+        "en": "1.21.70 Update"
+      },
+      "summary": {
+        "es": "1.21.70, el lanzamiento de Florece a la vida, es un lanzamiento del juego para Bedrock Edition, lanzado el 25 de marzo de 2025, que agrega variantes de pollo, vaca y cerdo, agrega varias plantas nuevas, cambia todas las texturas de los huevos de generación y corrige errores.",
+        "en": "The Spring to Life drop brings more reasons to explore both near and far! Warm winds have swept across biomes, bringing new mob variants, ambient sounds, and lush plants for you to discover."
+      },
+      "doc": "news/bedrock-1.21.70.md",
+      "published": "2025-03-25",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.70.jpg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.70",
+      "version": "1.21.70",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.60",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.60",
+        "en": "1.21.60 Update"
+      },
+      "summary": {
+        "es": "1.21.60 es una actualización menor para Bedrock Edition lanzada el 11 de febrero de 2025, que agrega algunas características experimentales para Spring Drop 2025 y corrige errores. Esta es la primera versión lanzada en 2025.",
+        "en": "Hold on tight, because this changelog is quite a pig deal! Not only do have we fixed a bunch of bugs, there are also several features available in the experimental toggle."
+      },
+      "doc": "news/bedrock-1.21.60.md",
+      "published": "2025-02-11",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.60.jpg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.60",
+      "version": "1.21.60",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.50",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.50",
+        "en": "1.21.50 Update"
+      },
+      "summary": {
+        "es": "1.21.50, el primer lanzamiento para The Garden Awakens, es una game drop para Bedrock Edition, lanzada el 3 de diciembre de 2024. Marca el primer lanzamiento de Bedrock Edition en una versión minorista.",
+        "en": "Shh! I'm writing this changelog from behind a pale oak tree and I have to be very quiet because the Garden Awakens drop is finally here and creakings are spawning in pale gardens all across the Overworld!"
+      },
+      "doc": "news/bedrock-1.21.50.md",
+      "published": "2024-12-03",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.50.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.50",
+      "version": "1.21.50",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.40",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.40",
+        "en": "Minecraft 1.21.40 Bedrock Changelog"
+      },
+      "summary": {
+        "es": "1.21.40, el lanzamiento de Bundles of Bravery, es una miniactualización para Bedrock Edition lanzado el 22 de octubre de 2024 que añade los sacos y el modo extremo.",
+        "en": "Today marks the launch of our third game drop: Bundles of Bravery! Featuring space saving bundles and the hardest Survival mode out there (Hardcore mode!) this drop is all about embarking on a new adventure, collecting everything you can along the way, and definitely not dying."
+      },
+      "doc": "news/bedrock-1.21.40.md",
+      "published": "2024-10-22",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.40launcher.jpg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.40",
+      "version": "1.21.40",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.31",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.31",
+        "en": "1.21.31 Update"
+      },
+      "summary": {
+        "es": "1.21.31 es una revisión de Bedrock Edition lanzada el 30 de septiembre de 2024, la cual corrige errores.",
+        "en": "Fixes: Fixed several crashes that could occur during gameplay Fixed a crash that could occur when trading with Villagers using only the second slot ([MCPE 186676](https://bugs.mojang.com/browse/MCPE 186676)) An issue where some commands did not recognize certain block or item names has been fixed Fixed an issue with…"
+      },
+      "doc": "news/bedrock-1.21.31.md",
+      "published": "2024-09-30",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.31.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.31",
+      "version": "1.21.31",
       "has_doc": true
     }
   ]
