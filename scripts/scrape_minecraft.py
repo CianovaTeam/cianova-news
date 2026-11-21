@@ -25,7 +25,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-from common import NEWS_DIR, slugify, today, validate_id, write_document
+from common import NEWS_DIR, today, validate_id, write_document
 
 PATCH_NOTES_URL = "https://launchercontent.mojang.com/v2/bedrockPatchNotes.json"
 HOST = "https://launchercontent.mojang.com"
