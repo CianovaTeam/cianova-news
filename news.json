@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T13:59:57Z",
-  "count": 19,
+  "generated_at": "2026-11-21T14:50:57Z",
+  "count": 24,
   "items": [
     {
       "id": "cianova-v4.0.0",
@@ -79,6 +79,42 @@
       "has_doc": true
     },
     {
+      "id": "cianova-v3-1-0",
+      "type": "cianova",
+      "title": {
+        "es": "Cianova Launcher v3.1.0",
+        "en": "Cianova Launcher v3.1.0"
+      },
+      "summary": {
+        "es": "Nueva versión de CianovaLauncher: Cianova Launcher v3.1.0.",
+        "en": "Nueva versión de CianovaLauncher: Cianova Launcher v3.1.0."
+      },
+      "doc": "news/cianova-v3-1-0.md",
+      "published": "2026-07-04",
+      "source": "cianova",
+      "url": "https://github.com/CianovaTeam/CianovaLauncher-mcpelauncher/releases/tag/v3.1.0",
+      "version": "v3.1.0",
+      "has_doc": true
+    },
+    {
+      "id": "cianova-v3-0",
+      "type": "cianova",
+      "title": {
+        "es": "CianovaLauncher - Release v3.0",
+        "en": "CianovaLauncher - Release v3.0"
+      },
+      "summary": {
+        "es": "[Changelog](Doc/Changelog.md) for see the latest updates.",
+        "en": "[Changelog](Doc/Changelog.md) for see the latest updates."
+      },
+      "doc": "news/cianova-v3-0.md",
+      "published": "2026-06-22",
+      "source": "cianova",
+      "url": "https://github.com/CianovaTeam/CianovaLauncher-mcpelauncher/releases/tag/v3.0",
+      "version": "v3.0",
+      "has_doc": true
+    },
+    {
       "id": "bedrock-26.30",
       "type": "minecraft",
       "title": {
@@ -133,6 +169,60 @@
       "image": "https://launchercontent.mojang.com/v2/images/26.10.png",
       "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_26.10",
       "version": "26.10",
+      "has_doc": true
+    },
+    {
+      "id": "cianova-v2-2",
+      "type": "cianova",
+      "title": {
+        "es": "CianovaLauncher - Release v2.2",
+        "en": "CianovaLauncher - Release v2.2"
+      },
+      "summary": {
+        "es": "[Changelog](Doc/Changelog.md) for see the latest updates.",
+        "en": "[Changelog](Doc/Changelog.md) for see the latest updates."
+      },
+      "doc": "news/cianova-v2-2.md",
+      "published": "2026-03-01",
+      "source": "cianova",
+      "url": "https://github.com/CianovaTeam/CianovaLauncher-mcpelauncher/releases/tag/v2.2",
+      "version": "v2.2",
+      "has_doc": true
+    },
+    {
+      "id": "cianova-v2-1-1",
+      "type": "cianova",
+      "title": {
+        "es": "CianovaLauncher - Release v2.1.1",
+        "en": "CianovaLauncher - Release v2.1.1"
+      },
+      "summary": {
+        "es": "[Changelog](Doc/Changelog.md) for see the latest updates.",
+        "en": "[Changelog](Doc/Changelog.md) for see the latest updates."
+      },
+      "doc": "news/cianova-v2-1-1.md",
+      "published": "2026-02-25",
+      "source": "cianova",
+      "url": "https://github.com/CianovaTeam/CianovaLauncher-mcpelauncher/releases/tag/v2.1.1",
+      "version": "v2.1.1",
+      "has_doc": true
+    },
+    {
+      "id": "cianova-major2",
+      "type": "cianova",
+      "title": {
+        "es": "CianovaLauncher - Release v2.1",
+        "en": "CianovaLauncher - Release v2.1"
+      },
+      "summary": {
+        "es": "[Changelog](Doc/Changelog.md) for see the latest updates.",
+        "en": "[Changelog](Doc/Changelog.md) for see the latest updates."
+      },
+      "doc": "news/cianova-major2.md",
+      "published": "2026-02-18",
+      "source": "cianova",
+      "url": "https://github.com/CianovaTeam/CianovaLauncher-mcpelauncher/releases/tag/MAJOR2",
+      "version": "MAJOR2",
       "has_doc": true
     },
     {
