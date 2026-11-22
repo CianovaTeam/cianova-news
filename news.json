@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T14:50:57Z",
-  "count": 24,
+  "generated_at": "2026-11-22T13:53:32Z",
+  "count": 34,
   "items": [
     {
       "id": "cianova-v4.0.0",
@@ -451,6 +451,196 @@
       "image": "https://launchercontent.mojang.com/v2/images/1.21.31.png",
       "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.31",
       "version": "1.21.31",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.30",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.30",
+        "en": "1.21.30 Update"
+      },
+      "summary": {
+        "es": "1.21.30 es una actualización menor de Bedrock Edition lanzada el 17 de septiembre de 2024, la cual cambia los nombres de muchos nombres de bloques y objetos en paridad con Java Edition, añade los sacos como función experimental y corrige errores.",
+        "en": "A new update has been released with a variety of quality of life improvements and fixes to the Minecraft experience! In this week’s changelog, villagers can finally sleep soundly, foxes are getting more hearts, and we’ve got bundles of information about – bundles, which are now available as an experimental feature for…"
+      },
+      "doc": "news/bedrock-1.21.30.md",
+      "published": "2024-09-17",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.30.jpg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.30",
+      "version": "1.21.30",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.23",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.23",
+        "en": "1.21.23 Update"
+      },
+      "summary": {
+        "es": "1.21.23 es una revisión de Bedrock Edition lanzado el 3 de septiembre de 2024, la cual corrige un error.",
+        "en": "Fixes: Fixed several crashes that could occur during gameplay"
+      },
+      "doc": "news/bedrock-1.21.23.md",
+      "published": "2024-09-03",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.23.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.23",
+      "version": "1.21.23",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.22",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.22",
+        "en": "1.21.22 Update"
+      },
+      "summary": {
+        "es": "1.21.22 es una revisión de Bedrock Edition lanzada el 26 de agosto de 2024 para todas las plataformas excepto iOS, iPadOS, y Fire, 27 de agosto para iOS, iPadOS, and Fire, la cual corrige errores.",
+        "en": "A new update has been released to address a few issues with the 1.21.20 release. Fixes: Fixed several crashes that could occur during gameplay Improved loading of add ons from Marketplace Fixed a bug where all custom blocks were rotated 180 degrees in the UI"
+      },
+      "doc": "news/bedrock-1.21.22.md",
+      "published": "2024-08-26",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.22.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.22",
+      "version": "1.21.22",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.21",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.21",
+        "en": "1.21.21 Update"
+      },
+      "summary": {
+        "es": "1.21.21 es una revisión de Bedrock Edition lanzada el 14 de Agosto de 2024, la cual mejora la fiabilidad a la hora de conectarse a Realms.",
+        "en": "A new update has been released to address issues with connecting to Realms. Fixes: Improved reliability of connecting to Realms"
+      },
+      "doc": "news/bedrock-1.21.21.md",
+      "published": "2024-08-16",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.21.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.21",
+      "version": "1.21.21",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.20",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.20",
+        "en": "1.21.20 Update"
+      },
+      "summary": {
+        "es": "1.21.20 es una actualización menor para Bedrock Edition lanzada el 13 de agosto de 2024, la cual corrige errores y contiene principalmente cambios técnicos. Lo que iba a ser la 1.21.10 se junto con esta actualización.",
+        "en": "A new update has been released with a variety of quality of life improvements and fixes to the Minecraft experience! Fixes and Changes: Performance / Stability: Fixed a number of bugs related to downloading content getting stuck, including errors related to: \"Downloads all stuck at 0%\" and broken content updates Fixed…"
+      },
+      "doc": "news/bedrock-1.21.20.md",
+      "published": "2024-08-13",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.20.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.20",
+      "version": "1.21.20",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.2",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.2",
+        "en": "1.21.2 Update"
+      },
+      "summary": {
+        "es": "1.21.2 es una revisión de Bedrock Edition lanzada el 9 de julio de 2024, la cual corrige errores.",
+        "en": "A new hotfix is now available to address some of the top issues that have been encountered since the 1.21 update. Features and Bug Fixes: Ominous Trial Spawner Mobs spawned by Ominous Trial Spawners now drop items they picked up ([MCPE 182630](https://bugs.mojang.com/browse/MCPE 182630)) Ominous Vault Rare loot now…"
+      },
+      "doc": "news/bedrock-1.21.2.md",
+      "published": "2024-07-09",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.2.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.2",
+      "version": "1.21.2",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.1",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.1",
+        "en": "1.21.1 Update"
+      },
+      "summary": {
+        "es": "1.21.1 es una revisión a Bedrock Edition lanzada el 20 de junio de 2024, la cual corrige dos errores.",
+        "en": "Fixes: Fixed a hardlock that could occur when playing splitscreen multiplayer on PlayStation®4 Fixed a bug where players with a freshly installed Minecraft needed to restart before being able to see Realms Stories"
+      },
+      "doc": "news/bedrock-1.21.1.md",
+      "published": "2024-06-21",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.1.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.1",
+      "version": "1.21.1",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.21.0",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.21.0",
+        "en": "1.21 Update - Tricky Trials"
+      },
+      "summary": {
+        "es": "1.21.0 es una actualización mayor para Bedrock Edition fechada para lanzarse el 13 de junio de 2024 Originalmente anunciada en Minecraft Live 2023 el 15 de Octubre del 2023, esta actualización fue mencionada con un enfoque en \"combate, aventuras, y retoques\".",
+        "en": "New Features: Added a new underground structure called the Trial Chambers Added 2 new mobs Breeze Bogged Added a new weapon, the Mace Added 3 new enchantments exclusive to the Mace Density Breach Wind Burst Added the following blocks: Crafter Trial Spawner Ominous Trial Spawner Vault Ominous Vault New variants in the…"
+      },
+      "doc": "news/bedrock-1.21.0.md",
+      "published": "2024-06-13",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.21.0.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.21.0",
+      "version": "1.21.0",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.81",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.81",
+        "en": "1.20.81 Update"
+      },
+      "summary": {
+        "es": "1.20.81 es una actualización de revisión menor para Bedrock Edition lanzado en todas las plataformas excepto Nintendo Switch el 29 de abril de 2024, que corrige algunos errores.",
+        "en": "A new update is now available to address stability issues introduced with the 1.20.80 update. Fixes: Fixed several crashes that could occur during gameplay Camera no longer lags one frame behind after teleporting"
+      },
+      "doc": "news/bedrock-1.20.81.md",
+      "published": "2024-04-29",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.20.81.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.81",
+      "version": "1.20.81",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.80",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.80",
+        "en": "1.20.80 Update"
+      },
+      "summary": {
+        "es": "1.20.80, el lanzamiento de Armored Paws, es una gota para Bedrock Edition, lanzamiento el 23 de abril de 2024. Corrige errores y hace armadillo y armadura para lobo disponible en el juego normal, quitando sus experimental toggle.",
+        "en": "Eight new wolf variations, wolf armor, and armadillos are dropping in Minecraft today! Meet the armadillo, a mob found in the savanna or badlands biomes, and craft wolf armor from its scutes!"
+      },
+      "doc": "news/bedrock-1.20.80.md",
+      "published": "2024-04-23",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.20.80.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.80",
+      "version": "1.20.80",
       "has_doc": true
     }
   ]
