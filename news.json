@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T13:53:32Z",
-  "count": 34,
+  "generated_at": "2026-11-22T14:46:58Z",
+  "count": 37,
   "items": [
     {
       "id": "cianova-v4.0.0",
@@ -242,6 +242,60 @@
       "image": "https://launchercontent.mojang.com/v2/images/26.0.jpg",
       "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_26.0",
       "version": "26.0",
+      "has_doc": true
+    },
+    {
+      "id": "cianova-minor",
+      "type": "cianova",
+      "title": {
+        "es": "CianovaLauncher - Release v2.0e",
+        "en": "CianovaLauncher - Release v2.0e"
+      },
+      "summary": {
+        "es": "[Changelog](https://github.com/PlaGaPlusDev/CianovaLauncher-mcpelauncher/blob/mainqt5/Docs/Changelog.md) for see the latest updates.",
+        "en": "[Changelog](https://github.com/PlaGaPlusDev/CianovaLauncher-mcpelauncher/blob/mainqt5/Docs/Changelog.md) for see the latest updates."
+      },
+      "doc": "news/cianova-minor.md",
+      "published": "2026-01-05",
+      "source": "cianova",
+      "url": "https://github.com/CianovaTeam/CianovaLauncher-mcpelauncher/releases/tag/MINOR",
+      "version": "MINOR",
+      "has_doc": true
+    },
+    {
+      "id": "cianova-major",
+      "type": "cianova",
+      "title": {
+        "es": "CianovaLauncher - Release v2.0",
+        "en": "CianovaLauncher - Release v2.0"
+      },
+      "summary": {
+        "es": "[Changelog](Changelog.md) for see the latest updates.",
+        "en": "[Changelog](Changelog.md) for see the latest updates."
+      },
+      "doc": "news/cianova-major.md",
+      "published": "2026-01-03",
+      "source": "cianova",
+      "url": "https://github.com/CianovaTeam/CianovaLauncher-mcpelauncher/releases/tag/MAJOR",
+      "version": "MAJOR",
+      "has_doc": true
+    },
+    {
+      "id": "cianova-legacy",
+      "type": "cianova",
+      "title": {
+        "es": "v1.1.0 - Legacy (MCPELAUNCHER_TOOLS)",
+        "en": "v1.1.0 - Legacy (MCPELAUNCHER_TOOLS)"
+      },
+      "summary": {
+        "es": "Nueva versión de CianovaLauncher: v1.1.0 - Legacy (MCPELAUNCHER_TOOLS).",
+        "en": "Nueva versión de CianovaLauncher: v1.1.0 - Legacy (MCPELAUNCHER_TOOLS)."
+      },
+      "doc": "news/cianova-legacy.md",
+      "published": "2026-01-02",
+      "source": "cianova",
+      "url": "https://github.com/CianovaTeam/CianovaLauncher-mcpelauncher/releases/tag/LEGACY",
+      "version": "LEGACY",
       "has_doc": true
     },
     {
