@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T14:46:58Z",
-  "count": 37,
+  "generated_at": "2026-11-23T17:03:55Z",
+  "count": 47,
   "items": [
     {
       "id": "cianova-v4.0.0",
@@ -695,6 +695,196 @@
       "image": "https://launchercontent.mojang.com/v2/images/1.20.80.png",
       "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.80",
       "version": "1.20.80",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.73",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.73",
+        "en": "1.20.73 Update"
+      },
+      "summary": {
+        "es": "de:Bedrock Edition 1.20.73 en:Bedrock Edition 1.20.73 fr:Édition Bedrock 1.20.73 ja:Bedrock Edition 1.20.73 ko:Bedrock Edition 1.20.73 lzh:基石版一點二〇點七三 pt:Edição Bedrock 1.20.73 ru:1.20.73 (Bedrock Edition) uk:1.20.73 (Bedrock Edition) zh:基岩版1.20.73",
+        "en": "A new update is now available to address stability issues introduced with the 1.20.70 update. Fixes: Fixed a crash that could occur during gameplay"
+      },
+      "doc": "news/bedrock-1.20.73.md",
+      "published": "2024-04-01",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.20.73.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.73",
+      "version": "1.20.73",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.72",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.72",
+        "en": "1.20.72 Update"
+      },
+      "summary": {
+        "es": "1.20.72 es una actualización menor para Bedrock Edition lanzada el 19 de Marzo del 2024, la cual soluciona algunos bloqueos del juego.",
+        "en": "A new update is now available to address stability issues introduced with the 1.20.70 update. Fixes: Fixed several crashes that could occur during gameplay"
+      },
+      "doc": "news/bedrock-1.20.72.md",
+      "published": "2024-03-25",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.20.72.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.72",
+      "version": "1.20.72",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.70",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.70",
+        "en": "1.20.70 Update"
+      },
+      "summary": {
+        "es": "1.20.70 (en Xbox) o 1.20.71 (en Windows, Android, iOS, PlayStation y Nintendo Switch) es una actualización menor para Bedrock Edition lanzada el 12 de Marzo del 2024, la cual soluciona errores, brinda mayor paridad con Java Edition, y agrega más características Experimentales para 1.21.0 como el arca, el ítem de carga…",
+        "en": "Vanilla Parity: Mobs Wolves can now withstand the same amount of damage as in Java Edition Rather than halving all damage dealt to tamed Wolves by entities other than Players or Arrows, as currently done in Java Edition, the maximum health of tamed Wolves has been increased from 20 to 40 Pre existing tamed Wolves will…"
+      },
+      "doc": "news/bedrock-1.20.70.md",
+      "published": "2024-03-12",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.20.70.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.70",
+      "version": "1.20.70",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.62",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.62",
+        "en": "1.20.62 Update"
+      },
+      "summary": {
+        "es": "1.20.62 es una actualización menor para Bedrock Edition lanzada el 15 de Febrero del 2024, la cual soluciona algunos bloqueos del juego.",
+        "en": "A new update is now available to address crash issues introduced with the 1.20.60 update. Fixes: Fixed several crashes that could occur during gameplay"
+      },
+      "doc": "news/bedrock-1.20.62.md",
+      "published": "2024-02-15",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/launcherr20u6h1.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.62",
+      "version": "1.20.62",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.60",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.60",
+        "en": "1.20.60 Update"
+      },
+      "summary": {
+        "es": "1.20.60 (en Windows, Xbox, PlayStation, Mobile) o 1.20.61 (en Nintendo Switch) es una actualización menor para Bedrock Edition lanzada el 6 de febrero del 2024, la cual brinda mayor paridad con Java Edition, agrega nuevo contenido experimental de la actualización 1.21 y soluciona errores.",
+        "en": "A new update for Minecraft is available now, bringing several changes, fixes, and experimental features! Check out the highlights from this release: Fixes to a whole bunch of bugs and parity changes Experimental features from the upcoming 1.21 update, including Trial Chambers and the Breeze Experimental Armadillo and…"
+      },
+      "doc": "news/bedrock-1.20.60.md",
+      "published": "2024-02-06",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1.20.60.png",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.60",
+      "version": "1.20.60",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.51",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.51",
+        "en": "1.20.51 Update"
+      },
+      "summary": {
+        "es": "1.20.51 es una actualización menor de Bedrock Edition publicada el 14 de diciembre de 2023, que corrige errores.",
+        "en": "A hotfix is now available for Minecraft: Bedrock Edition that resolves some issues introduced with the latest update. Fixes: Fixed a crash that could occur when playing on Realms Items no longer have the possibility of duplicating after switching selecting slots while using them All owned and unowned emotes should now…"
+      },
+      "doc": "news/bedrock-1.20.51.md",
+      "published": "2023-12-14",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/4bR6pBOPfKGkXW9fmKEVxr12051.jpeg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.51",
+      "version": "1.20.51",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.50",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.50",
+        "en": "1.20.50 Update"
+      },
+      "summary": {
+        "es": "1.20.50 es una actualización menor para Bedrock Edition lanzada el 5 de diciembre del 2023, la cual brinda mayor paridad con Java Edition y soluciona errores",
+        "en": "The latest Minecraft update brings a brand new look for bats, smashable pots, and some new experimental features like the crafter block. Let’s take a look at the highlights!"
+      },
+      "doc": "news/bedrock-1.20.50.md",
+      "published": "2023-12-05",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/4cbQFTsJyawjt2Pl4gsKArr20u5launcher.jpeg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.50",
+      "version": "1.20.50",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.41",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.41",
+        "en": "1.20.41 Update"
+      },
+      "summary": {
+        "es": "1.20.41 es una actualización menor de Bedrock Edition publicada el 2 de noviembre de 2023, que corrige errores.",
+        "en": "A new update has been released to address some issues that were introduced with the 1.20.40 update. Fixes: Fixed a crash that could occur when joining a Realm after doing other things for a while Fixed a crash that could occur when joining Featured Servers Fixed a crash on Amazon devices when the player had a prior…"
+      },
+      "doc": "news/bedrock-1.20.41.md",
+      "published": "2023-11-02",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1Rmj9y5K9AjNV52KpkbMx4launcherr20u4h1.jpeg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.41",
+      "version": "1.20.41",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.40",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.40",
+        "en": "1.20.40 Update"
+      },
+      "summary": {
+        "es": "1.20.40 es una actualización menor para Bedrock Edition lanzada el 24 de octubre del 2023, que brinda mayor paridad con Java Edition, y soluciona errores.",
+        "en": "A new update has been released, bringing several changes to the game! Here are the highlights: Experimental: Rebalanced several Villager trades Updated and improved several in game sounds Tweaked the splash sounds when entering and leaving water Buckets can no longer pick up liquids for a few ticks after they've been…"
+      },
+      "doc": "news/bedrock-1.20.40.md",
+      "published": "2023-10-24",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/655KMGBvViSE4lY0qtXV6xr20u4launcher.jpeg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.40",
+      "version": "1.20.40",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.32",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.32",
+        "en": "1.20.32 Update"
+      },
+      "summary": {
+        "es": "1.20.32 es una actualización menor para Bedrock Edition lanzada el 5 de octubre de 2023, la cual corrige errores.",
+        "en": "Fixes: Fixed “§” text modifiers overwriting text when next to a line break on iOS ([MCPE 174480](https://bugs.mojang.com/browse/MCPE 174480)) Fixed an issue that caused the keyboard to become unresponsive when placing multiple Signs successively ([MCPE 175072](https://bugs.mojang.com/browse/MCPE 175072)) Buttons and…"
+      },
+      "doc": "news/bedrock-1.20.32.md",
+      "published": "2023-10-05",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/5noUirXuH9XGio5BdCnhOplauncherr20u3h2.jpeg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.32",
+      "version": "1.20.32",
       "has_doc": true
     }
   ]
