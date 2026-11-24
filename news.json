@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-23T18:34:01Z",
-  "count": 47,
+  "generated_at": "2026-11-24T16:50:38Z",
+  "count": 50,
   "items": [
     {
       "id": "cianova-v4.0.0",
@@ -885,6 +885,63 @@
       "image": "https://launchercontent.mojang.com/v2/images/5noUirXuH9XGio5BdCnhOplauncherr20u3h2.jpeg",
       "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.32",
       "version": "1.20.32",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.31",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.31",
+        "en": "1.20.31 Update"
+      },
+      "summary": {
+        "es": "1.20.31 es una actualización menor para Bedrock Edition lanzada el 26 de Septiembre del 2023, la cual soluciona errores.",
+        "en": "Fixes: Fixed a crash that could occur when opening the Realms Plus page Improved server performance when Villagers are grouped together ([MCPE 175100](https://bugs.mojang.com/browse/MCPE 175100)) Fixed an issue that caused Marketplace to become inaccessible after leaving the game on for extended periods of time Fixed…"
+      },
+      "doc": "news/bedrock-1.20.31.md",
+      "published": "2023-09-26",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/3xzIsGS00AAOgHacCrTpzIlauncherr20u3h1.jpeg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.31",
+      "version": "1.20.31",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.30",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.30",
+        "en": "1.20.30 Update"
+      },
+      "summary": {
+        "es": "1.20.30 es una actualización menor de Bedrock Edition lanzada el 19 de septiembre del 2023, la cual realiza cambios experimentales al comercio con aldeanos y comerciantes errantes, brinda mayor paridad con Java Edition, y soluciona errores.",
+        "en": "A new update has been released, bringing several changes to the game! Here are the highlights: Updated “You died” experience Players can now crawl under single block gaps A new \"Recipe Unlocked\" notification will now tell you when you've found a new crafting material Increased the amount of Diamond Ore found in the…"
+      },
+      "doc": "news/bedrock-1.20.30.md",
+      "published": "2023-09-19",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/1vcIoAtFGRi7z2lrhkN55glauncherr20u3.jpeg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.30",
+      "version": "1.20.30",
+      "has_doc": true
+    },
+    {
+      "id": "bedrock-1.20.12",
+      "type": "minecraft",
+      "title": {
+        "es": "Minecraft Bedrock 1.20.12",
+        "en": "1.20.12 Update"
+      },
+      "summary": {
+        "es": "1.20.12 es una actualización menor para Bedrock Edition publicada el 18 de julio de 2023, que corrige errores.",
+        "en": "A new update has been released to address some issues that were introduced with the 1.20.10 update. Fixes: Fixed resource pack crashes with launch of 1.20.10 Fixed a crash that could occur on iOS Fixed connection stability related to \"Abandoned connection closed\" errors"
+      },
+      "doc": "news/bedrock-1.20.12.md",
+      "published": "2023-07-18",
+      "source": "wiki",
+      "image": "https://launchercontent.mojang.com/v2/images/6q57OmGaVM5lrH7NwhDCuRlauncherr20u1h2.jpeg",
+      "url": "https://es.minecraft.wiki/wiki/Bedrock_Edition_1.20.12",
+      "version": "1.20.12",
       "has_doc": true
     }
   ]
